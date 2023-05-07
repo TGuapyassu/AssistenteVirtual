@@ -2,7 +2,7 @@
 
 Assistente pessoal virtual que escuta os seus comandos de voz e executa-os!
 
-## Tecnologias utilizadas:
+## 🛠 Tecnologias utilizadas:
 
 * [Python](https://www.python.org/): linguagem de programação
 * [Speech Recognition](https://pypi.org/project/SpeechRecognition/): reconhecimento de voz
